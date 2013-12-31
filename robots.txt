@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://finack.com/sitemap.xml 

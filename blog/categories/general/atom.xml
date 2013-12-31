@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: general | random geekery]]></title>
+  <link href="http://finack.com/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://finack.com/"/>
+  <updated>2013-12-31T13:45:45-08:00</updated>
+  <id>http://finack.com/</id>
+  <author>
+    <name><![CDATA[Peter Baker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[REBOOT]]></title>
+    <link href="http://finack.com/blog/2013/12/31/reboot/"/>
+    <updated>2013-12-31T12:34:11-08:00</updated>
+    <id>http://finack.com/blog/2013/12/31/reboot</id>
+    <content type="html"><![CDATA[<p>After more then a year of inactivity, I have decided to reboot this place. And by rebooting, I mean <code>posts.all.map &amp;:destroy</code>.</p>
+
+<p>I could have saved a couple of the older posts, but inspiration and mainly the avoidance of perspiration has influenced me to just save the bits and throw the old out.</p>
+
+<p>It is new years and it is a bit cliché to reboot a blog but it also happens to align with a good chunk of time off. I have found the 2-weeks staycation to be very rejuvenating. I have spend the time working on the brewery (more to come), doing odd chores around the house, and getting to better know JavaScript, CoffeeScript, and Ember.</p>
+
+<p>A couple years ago I had a similar experience where I spent a week with friends in Hawaii and a huge chunk of time with <a href="http://github.com/finack/dotfiles">my terminal setup</a>. That investment of time has gone a long way!</p>
+
+<blockquote><p>we&rsquo;re sorry<br/>
+but you&rsquo;re no longer needed<br/>
+or wanted<br/>
+or even cared about here <br/>
+machines can do a better job than you<br/>
+this is what you get for asking questions<br/>
+<u>Dead Kennedys : Soup is Good Food</u></p></blockquote>
+
+<p>So with out further ado, I christen my rebooted blog with a <a href="https://untappd.com/b/cleophus-quealy-beer-company-figgy-piggy/235867">lovely beer</a> and some salami.</p>
+
+<h2>Credits</h2>
+
+<p>Much gratititude to so many people who make even a meek little blog possible. It is always amazing to reflect on how much is built on the layers of OSS</p>
+
+<ul>
+<li><a href="http://octopress.org/">Octopress</a></li>
+<li><a href="http://https://github.com/mikeclarke/villainy-octopress-theme">Villainy Octopresss Theme</a></li>
+<li>DCM&rsquo;s use of Music Quotes in his blog, random but generally amusing</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
