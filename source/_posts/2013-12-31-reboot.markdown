@@ -1,0 +1,36 @@
+---
+layout: post
+title: "REBOOT"
+date: 2013-12-31 12:34:11 -0800
+comments: true
+categories: general
+---
+
+After more then a year of inactivity I have decided to reboot this place. And by rebooting I mean `posts.all.map &:destroy`.
+
+I could have saved a couple of the older posts, but inspiration and mainly the avoidance of perspiration has influenced me to just save the bits and throw the old out.
+
+It is New Years and it is a bit cliché to restart a blog but it also happens to align with a good chunk of time off. I have found the 2-weeks staycation to be very rejuvenating. I have spent the time working on the brewery (more to come), doing odd chores around the house, and getting to better know JavaScript, CoffeeScript, and Ember.
+
+A couple years ago I had a similar experience where I spent a week with friends in Hawaii diving and refactoring [my terminal setup](http://github.com/finack/dotfiles). That investment of time has gone a long way as I use it daily. To continue on that path I am going to borrow an idea from [Ben Orenstein](https://twitter.com/r00k) about tool sharping. Check out the [Ruby Rogue's podcast](http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/) for more details (and check back here for future blog posts).
+
+{% blockquote Dead Kennedys, Soup is good food %}
+
+we're sorry  
+but you're no longer needed  
+or wanted  
+or even cared about here   
+machines can do a better job than you  
+this is what you get for asking questions  
+{% endblockquote %}
+
+So with out further ado, I christen my rebooted blog with a [lovely beer](https://untappd.com/b/cleophus-quealy-beer-company-figgy-piggy/235867) and some salami.
+
+## Credits
+
+Much gratititude to so many people who make even a meek little blog possible. It is always amazing to reflect on how much is built on the layers of OSS
+
+* [Octopress](http://octopress.org/)
+* [Villainy Octopresss Theme](http://https://github.com/mikeclarke/villainy-octopress-theme)
+* DCM's use of Music Quotes in his blog, random but generally amusing
+
