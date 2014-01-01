@@ -4,7 +4,7 @@
   <title><![CDATA[random geekery]]></title>
   <link href="http://finack.com/atom.xml" rel="self"/>
   <link href="http://finack.com/"/>
-  <updated>2013-12-31T13:45:45-08:00</updated>
+  <updated>2014-01-01T12:34:54-08:00</updated>
   <id>http://finack.com/</id>
   <author>
     <name><![CDATA[Peter Baker]]></name>
@@ -18,21 +18,16 @@
     <link href="http://finack.com/blog/2013/12/31/reboot/"/>
     <updated>2013-12-31T12:34:11-08:00</updated>
     <id>http://finack.com/blog/2013/12/31/reboot</id>
-    <content type="html"><![CDATA[<p>After more then a year of inactivity, I have decided to reboot this place. And by rebooting, I mean <code>posts.all.map &amp;:destroy</code>.</p>
+    <content type="html"><![CDATA[<p>After more then a year of inactivity I have decided to reboot this place. And by rebooting I mean <code>posts.all.map &amp;:destroy</code>.</p>
 
 <p>I could have saved a couple of the older posts, but inspiration and mainly the avoidance of perspiration has influenced me to just save the bits and throw the old out.</p>
 
-<p>It is new years and it is a bit cliché to reboot a blog but it also happens to align with a good chunk of time off. I have found the 2-weeks staycation to be very rejuvenating. I have spend the time working on the brewery (more to come), doing odd chores around the house, and getting to better know JavaScript, CoffeeScript, and Ember.</p>
+<p>It is New Years and it is a bit cliché to restart a blog but it also happens to align with a good chunk of time off. I have found the 2-weeks staycation to be very rejuvenating. I have spent the time working on the brewery (more to come), doing odd chores around the house, and getting to better know JavaScript, CoffeeScript, and Ember.</p>
 
-<p>A couple years ago I had a similar experience where I spent a week with friends in Hawaii and a huge chunk of time with <a href="http://github.com/finack/dotfiles">my terminal setup</a>. That investment of time has gone a long way!</p>
+<p>A couple years ago I had a similar experience where I spent a week with friends in Hawaii diving and refactoring <a href="http://github.com/finack/dotfiles">my terminal setup</a>. That investment of time has gone a long way as I use it daily. To continue on that path I am going to borrow an idea from <a href="https://twitter.com/r00k">Ben Orenstein</a> about tool sharping. Check out the <a href="http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/">Ruby Rogue&rsquo;s podcast</a> for more details (and check back here for future blog posts).</p>
 
-<blockquote><p>we&rsquo;re sorry<br/>
-but you&rsquo;re no longer needed<br/>
-or wanted<br/>
-or even cared about here <br/>
-machines can do a better job than you<br/>
-this is what you get for asking questions<br/>
-<u>Dead Kennedys : Soup is Good Food</u></p></blockquote>
+<blockquote><p>we&#8217;re sorry  <br/>but you&#8217;re no longer needed  <br/>or wanted  <br/>or even cared about here   <br/>machines can do a better job than you  <br/>this is what you get for asking questions</p><footer><strong>Dead Kennedys</strong> <cite>Soup Is Good Food</cite></footer></blockquote>
+
 
 <p>So with out further ado, I christen my rebooted blog with a <a href="https://untappd.com/b/cleophus-quealy-beer-company-figgy-piggy/235867">lovely beer</a> and some salami.</p>
 
