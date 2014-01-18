@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Brewery | random geekery]]></title>
+  <link href="http://finack.com/blog/categories/brewery/atom.xml" rel="self"/>
+  <link href="http://finack.com/"/>
+  <updated>2014-01-18T13:31:32-08:00</updated>
+  <id>http://finack.com/</id>
+  <author>
+    <name><![CDATA[Peter Baker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[FRAK - Brewery Automation]]></title>
+    <link href="http://finack.com/blog/2014/01/01/frak-brewery-automation/"/>
+    <updated>2014-01-01T13:16:19-08:00</updated>
+    <id>http://finack.com/blog/2014/01/01/frak-brewery-automation</id>
+    <content type="html"><![CDATA[<p>blah blah</p>
+
+<iframe width="600" height="350" src="http://jsfiddle.net/JXGzH/18/embedded/result,js/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

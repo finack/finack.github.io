@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[random geekery]]></title>
-  <link href="http://finack.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: development | random geekery]]></title>
+  <link href="http://finack.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://finack.com/"/>
   <updated>2014-01-18T13:31:32-08:00</updated>
   <id>http://finack.com/</id>
@@ -31,51 +31,6 @@
 <p>I have found the alternatives to pairing to be a difficult as well. Code reviews are very distracting and a typically a major context shift. The community values of style, joint decision making, etc, require more formal processes to maintain and implement. I have seen organizations where pairing is not the norm and their mechnical and community engineering practices are amazing. So it is not to say that pairing is the only way.</p>
 
 <p>But, pairing is probably the only way for me at this time.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[FRAK - Brewery Automation]]></title>
-    <link href="http://finack.com/blog/2014/01/01/frak-brewery-automation/"/>
-    <updated>2014-01-01T13:16:19-08:00</updated>
-    <id>http://finack.com/blog/2014/01/01/frak-brewery-automation</id>
-    <content type="html"><![CDATA[<p>blah blah</p>
-
-<iframe width="600" height="350" src="http://jsfiddle.net/JXGzH/18/embedded/result,js/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[REBOOT]]></title>
-    <link href="http://finack.com/blog/2013/12/31/reboot/"/>
-    <updated>2013-12-31T12:34:11-08:00</updated>
-    <id>http://finack.com/blog/2013/12/31/reboot</id>
-    <content type="html"><![CDATA[<p>After more then a year of inactivity I have decided to reboot this place. And by rebooting I mean <code>posts.all.map &amp;:destroy</code>.</p>
-
-<p>I could have saved a couple of the older posts, but inspiration and mainly the avoidance of perspiration has influenced me to just save the bits and throw the old out.</p>
-
-<p>It is New Years and it is a bit cliché to restart a blog but it also happens to align with a good chunk of time off. I have found the 2-weeks staycation to be very rejuvenating. I have spent the time working on the brewery (more to come), doing odd chores around the house, and getting to better know JavaScript, CoffeeScript, and Ember.</p>
-
-<p>A couple years ago I had a similar experience where I spent a week with friends in Hawaii diving and refactoring <a href="http://github.com/finack/dotfiles">my terminal setup</a>. That investment of time has gone a long way as I use it daily. To continue on that path I am going to borrow an idea from <a href="https://twitter.com/r00k">Ben Orenstein</a> about tool sharping. Check out the <a href="http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/">Ruby Rogue&rsquo;s podcast</a> for more details (and check back here for future blog posts).</p>
-
-<blockquote><p>we&#8217;re sorry  <br/>but you&#8217;re no longer needed  <br/>or wanted  <br/>or even cared about here   <br/>machines can do a better job than you  <br/>this is what you get for asking questions</p><footer><strong>Dead Kennedys</strong> <cite>Soup Is Good Food</cite></footer></blockquote>
-
-
-<p>So with out further ado, I christen my rebooted blog with a <a href="https://untappd.com/b/cleophus-quealy-beer-company-figgy-piggy/235867">lovely beer</a> and some salami.</p>
-
-<h2>Credits</h2>
-
-<p>Much gratititude to so many people who make even a meek little blog possible. It is always amazing to reflect on how much is built on the layers of OSS</p>
-
-<ul>
-<li><a href="http://octopress.org/">Octopress</a></li>
-<li><a href="http://https://github.com/mikeclarke/villainy-octopress-theme">Villainy Octopresss Theme</a></li>
-<li>DCM&rsquo;s use of Music Quotes in his blog, random but generally amusing</li>
-</ul>
-
 ]]></content>
   </entry>
   
